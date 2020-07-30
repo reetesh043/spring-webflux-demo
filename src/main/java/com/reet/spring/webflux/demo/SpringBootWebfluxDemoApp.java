@@ -19,10 +19,10 @@ public class SpringBootWebfluxDemoApp {
     public ConfigurationBuilder build() {
         ConfigurationBuilder cb = new ConfigurationBuilder();
         cb.setDebugEnabled(true);
-        cb.setOAuthConsumerKey("G7ONPMJ0FzK1FERlg62Qgf8ke");
-        cb.setOAuthConsumerSecret("JSHZxLHwr1S8aOBH1RGHkZ7AYpwEUj9VbmwWFW2okTrfgvimBc");
-        cb.setOAuthAccessToken("170968528-IKPw1FyTLilguVKEC2uBAxHZN3Ru10fDO02Qkm8Q");
-        cb.setOAuthAccessTokenSecret("fQT28vH7aM5sPvyok4Eliyc4zSwxP7PFSZvYBUVu7Kwec");
+        cb.setOAuthConsumerKey("xxxxxxx");
+        cb.setOAuthConsumerSecret("xxxxxxx");
+        cb.setOAuthAccessToken("xxxxxxxxxx");
+        cb.setOAuthAccessTokenSecret("xxxxxxxxxxx");
         return cb;
     }
 
